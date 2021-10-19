@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": "001",
+        "marca": "Logitech",
+        "nome": "Mouse Wireless",
+        "precoCusto": 500.5,
+        "precoVenda": 1200.99,
+        "quantidadeEstoque": 0,
+        "categoria": "Periféricos"
+    },
+    {
+        "codigo": "002",
+        "marca": "Logitech",
+        "nome": "Mouse Wireless",
+        "precoCusto": 500.5,
+        "precoVenda": 1200.99,
+        "quantidadeEstoque": 220,
+        "categoria": "Periféricos"
+    }
+]
