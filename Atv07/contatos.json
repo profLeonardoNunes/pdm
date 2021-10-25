@@ -1,0 +1,28 @@
+[
+    {
+        "nome": "Beltrano editado",
+        "idade": 33,
+        "cpf": "15321636899",
+        "telefones": [
+            {
+                "tipo": "C",
+                "numero": "3598335558"
+            },
+            {
+                "tipo": "B",
+                "numero": "3598335999"
+            }
+        ]
+    },
+    {
+        "nome": "Ciclano Ed",
+        "idade": 99,
+        "cpf": "1111111111",
+        "telefones": [
+            {
+                "tipo": "Residencial",
+                "numero": "1233212222"
+            }
+        ]
+    }
+]

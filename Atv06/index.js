@@ -99,8 +99,6 @@ function Vender(codigo, quantidade) {
 
 function VenderVarios(venda) {
     let msg = [];
-
-
     venda.forEach(item => {
         msg.push(Vender(item.codigo, item.quantidade));
     });
