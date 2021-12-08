@@ -1,0 +1,25 @@
+[
+    {
+        "nome": "Osvaldo",
+        "cpf": "333333333333",
+        "idade": 20,
+        "peso": 80,
+        "altura": 1.9,
+        "imc": "22.16"
+    },
+    {
+        "nome": "Abner",
+        "cpf": "444444444444",
+        "idade": "25",
+        "peso": "70",
+        "altura": "1.8",
+        "imc": "21.60"
+    },
+    {
+        "nome": "Marcelo",
+        "cpf": "555555555555",
+        "idade": 30,
+        "peso": 75,
+        "altura": 1.7
+    }
+]
